@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 var redis = require('redis');
 var log = require('../lib/log').log;
 
