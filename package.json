@@ -1,6 +1,6 @@
 {
   "name": "debade-master",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Debade Master Daemon",
   "main": "index.js",
   "bin": {
